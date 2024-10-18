@@ -1,4 +1,4 @@
-package net.massacring.templatemod;
+package net.massacring.removedarknesseffect;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.player.LocalPlayer;
